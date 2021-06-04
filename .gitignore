@@ -1,0 +1,3 @@
+*.sh
+*.toml
+!/**/config/example.toml

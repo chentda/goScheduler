@@ -1,0 +1,10 @@
+# this is a template of the config file
+# copy this file next to main script and populate
+# your gitignore should  ignore the config file at the script level
+
+[Input]
+sourcescript = "example.sh" # Replace with bash script that you want to schedule
+
+[Time]
+hour = 7 # Allowed values 0-23
+minute = 15 # Allowed values 0-59
