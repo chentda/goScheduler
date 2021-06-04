@@ -1,6 +1,8 @@
+# goScheduler
+
 ### Configuration
 ``` bash
-$ git clone git@gitlab.radlab.local:workforce/scriptsMiscAdhocs/goscheduler.git && cd goscheduler/config/
+$ git clone git@github.com:chentda/goScheduler.git && cd goscheduler/config/
 $ vim example.toml # fill out name of bash script and time you want to schedule it to run
 $ mv example.toml ../config.toml 
 ```
